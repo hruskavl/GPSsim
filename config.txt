@@ -1,0 +1,39 @@
+rychlost1=	60
+hodin1=		1
+minut1=		0
+vterin1=	0
+bearing1=	0
+klesani1=	0
+angle1=		0
+
+rychlost2=	60
+hodin2=		0
+minut2=		15
+vterin2=	0
+bearing2=	0
+klesani2=	0
+angle2=		45
+
+rychlost3=	60
+hodin3=		0
+minut3=		30
+vterin3=	0
+bearing3=	45
+klesani3=	0
+angle3=		0
+
+rychlost4=	60
+hodin4=		0
+minut4=		15
+vterin4=	0
+bearing4=	45
+klesani4=	0
+angle4=		45
+
+rychlost5=	60
+hodin5=		0
+minut5=		30
+vterin5=	0
+bearing5=	90
+klesani5=	0
+angle5=		0

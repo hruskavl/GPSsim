@@ -1,0 +1,25 @@
+azimut = 90                          # smer letu [deg]
+rychlost = 420                       # [kn]
+vyska = 30000                        # [ft]
+vertikalni_rychlost=0                # [ft/min]
+ 
+cas=2min
+vertikalni_rychlost = -1500          # zacne klesat
+ 
+cas=2min30sec
+zatacka = 180@5                      # zatacka o 180 stupnu (+/- doleva/doprava) s polomerem 5 NM
+ 
+cas=2min50sec
+rychlost = 380@20                    # zmena rychlosti na 380 kn behem nasledujicich 20 sekund
+ 
+cas=3min
+vertiklani_rychlost = 0
+zatacka = -90@3
+...
+-----------------------------------------------------------------------------------------------
+ 
+Tzn. pro daný cas mít možnost zmenit zvolené parametry pohybu. Z takového zadání by to muselo umet 
+dopocítat vše ostatní, pokud možno trochu realisticky, bez skokových zmen.
+Výstup by byl texták s hodnotami [cas, X, Y, Z, dX, dY, dZ]
+ 
+Zkuste se nad tím zamyslet J
